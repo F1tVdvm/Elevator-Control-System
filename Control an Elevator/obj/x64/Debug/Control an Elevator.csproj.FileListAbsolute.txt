@@ -1,0 +1,9 @@
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\bin\x64\Debug\Control an Elevator.exe.config
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\bin\x64\Debug\Control an Elevator.exe
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\bin\x64\Debug\Control an Elevator.pdb
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control an Elevator.csprojAssemblyReference.cache
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control_an_Elevator.Form1.resources
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control_an_Elevator.Properties.Resources.resources
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control an Elevator.csproj.GenerateResource.cache
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control an Elevator.exe
+C:\Users\atuta\Documents\Control an Elevator\Control an Elevator\obj\x64\Debug\Control an Elevator.pdb

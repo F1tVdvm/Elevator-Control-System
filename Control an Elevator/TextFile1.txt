@@ -1,0 +1,31 @@
+﻿Two buttons for the lift
+Emergency button 
+insert logs to database
+clear logs in database
+reread the instruction
+think about log in window
+nice grapghics animation
+doors
+better code 
+design pattern
+
+
+ 
+        public void timer2_Tick(object sender, EventArgs e)
+        {
+            int x = pictureBox3.Location.X;
+            int y = pictureBox3.Location.Y;
+
+            pictureBox3.Location = new Point(x, y + 1);
+
+            if (y > starty + 228)
+                timer2.Stop();
+            else
+            {
+                //pictureBox3.Location = new Point(x, y + 120);
+            }
+        }
+
+
+		2. Change names in table.
+		3. Report.
