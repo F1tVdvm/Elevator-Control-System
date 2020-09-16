@@ -41,7 +41,7 @@ namespace Control_an_Elevator
         private void Form1_Load(object sender, EventArgs e)
         {
             
-            dbconnection = "Provider=Microsoft.ACE.OLEDB.12.0;" + @"data source =..\..\DatabaseElevator.accdb";
+            dbconnection = "Provider=Microsoft.ACE.OLEDB.12.0;" + @"data source = ..\Elevator-Control-System\Control an Elevator\bin\DatabaseElevator.accdb"; // your path to database
             dbcommand = "Select * from StoredLogs;";
             conn = new OleDbConnection(dbconnection);
             comm = new OleDbCommand(dbcommand, conn);

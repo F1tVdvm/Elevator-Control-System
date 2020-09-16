@@ -25,3 +25,13 @@ C:\Users\Vdvm\Documents\Projects\Control an Elevator\obj\Debug\Control_an_Elevat
 C:\Users\Vdvm\Documents\Projects\Control an Elevator\obj\Debug\Control an Elevator.csproj.GenerateResource.cache
 C:\Users\Vdvm\Documents\Projects\Control an Elevator\obj\Debug\Control an Elevator.exe
 C:\Users\Vdvm\Documents\Projects\Control an Elevator\obj\Debug\Control an Elevator.pdb
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\bin\Debug\Control an Elevator.exe.config
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\bin\Debug\Control an Elevator.exe
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\bin\Debug\Control an Elevator.pdb
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control an Elevator.csprojAssemblyReference.cache
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control_an_Elevator.Form1.resources
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control_an_Elevator.Properties.Resources.resources
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control an Elevator.csproj.GenerateResource.cache
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control an Elevator.csproj.CoreCompileInputs.cache
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control an Elevator.exe
+C:\Users\atuta\Documents\Projects\Elevator-Control-System\Control an Elevator\obj\Debug\Control an Elevator.pdb
